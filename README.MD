@@ -8,3 +8,7 @@ Added a Volume Slider for the desktop page.
 
 ## Usage
 Just click the keys of the keyboard.
+
+## Authors
+Co-Authored with: Marino Gomez(https://github.com/DarthMarino)
+Co-Authored with: Ruben Nunez (https://github.com/Rubenabdias1)
