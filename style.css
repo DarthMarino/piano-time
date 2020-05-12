@@ -23,7 +23,7 @@ body{
   font-style: italic;
 }
 .piano{
-  width: 305px;
+  width: 1115px;
   height: 210px;
   display: block;
   margin: 0 auto;
@@ -113,4 +113,19 @@ body{
   color: #141c3a;
   letter-spacing: 1px;
   cursor: pointer;
+}
+#volume{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 400px;
+  height: 240px;
+  display: block;
+  margin: 0 auto;
+  padding-left: 20px;
+  margin-top: 25px;
+}
+
+#volumeSlider {
+  width: 350px;
 }
